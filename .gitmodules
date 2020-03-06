@@ -1,0 +1,3 @@
+[submodule "RPLidar_Hector_SLAM"]
+	path = RPLidar_Hector_SLAM
+	url = https://github.com/NickL77/RPLidar_Hector_SLAM.git
