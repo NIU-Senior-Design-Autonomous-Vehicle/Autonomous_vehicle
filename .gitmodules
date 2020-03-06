@@ -1,3 +1,6 @@
 [submodule "RPLidar_Hector_SLAM"]
 	path = RPLidar_Hector_SLAM
 	url = https://github.com/NickL77/RPLidar_Hector_SLAM.git
+[submodule "realsense-ros"]
+	path = realsense-ros
+	url = https://github.com/IntelRealSense/realsense-ros.git
