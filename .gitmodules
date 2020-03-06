@@ -11,3 +11,6 @@
 	path = rtabmap_ros
 	url = https://github.com/introlab/rtabmap_ros.git
 	branch = melodic-devel
+[submodule "rgbd_launch"]
+	path = rgbd_launch
+	url = https://github.com/ros-drivers/rgbd_launch.git
