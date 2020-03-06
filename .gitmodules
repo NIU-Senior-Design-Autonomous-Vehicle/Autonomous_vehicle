@@ -7,3 +7,7 @@
 [submodule "ddynamic_reconfigure"]
 	path = ddynamic_reconfigure
 	url = https://github.com/pal-robotics/ddynamic_reconfigure.git
+[submodule "rtabmap_ros"]
+	path = rtabmap_ros
+	url = https://github.com/introlab/rtabmap_ros.git
+	branch = melodic-devel
