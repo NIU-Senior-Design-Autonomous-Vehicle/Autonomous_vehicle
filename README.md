@@ -9,6 +9,7 @@ https://www.slamtec.com/en/Support
 
 $ sudo apt-get install ros-melodic-rtabmap-ros
 
+$ sudo apt-get install qt4-default
 -------------------------------------------------------------------------------------------------------------------------
 
 
