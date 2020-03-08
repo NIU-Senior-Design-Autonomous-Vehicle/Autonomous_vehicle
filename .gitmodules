@@ -1,16 +1,16 @@
 [submodule "RPLidar_Hector_SLAM"]
 	path = RPLidar_Hector_SLAM
-	url = https://github.com/NickL77/RPLidar_Hector_SLAM.git
+	url =https://github.com/NIU-Senior-Design-Autonomous-Vehicle/RPLidar_Hector_SLAM.git
 [submodule "realsense-ros"]
 	path = realsense-ros
-	url = https://github.com/IntelRealSense/realsense-ros.git
+	url = https://github.com/NIU-Senior-Design-Autonomous-Vehicle/realsense-ros.git
 [submodule "ddynamic_reconfigure"]
 	path = ddynamic_reconfigure
-	url = https://github.com/pal-robotics/ddynamic_reconfigure.git
+	url = https://github.com/NIU-Senior-Design-Autonomous-Vehicle/ddynamic_reconfigure.git
 [submodule "rtabmap_ros"]
 	path = rtabmap_ros
-	url = https://github.com/introlab/rtabmap_ros.git
+	url = https://github.com/NIU-Senior-Design-Autonomous-Vehicle/rtabmap_ros.git
 	branch = melodic-devel
 [submodule "rgbd_launch"]
 	path = rgbd_launch
-	url = https://github.com/ros-drivers/rgbd_launch.git
+	url = https://github.com/NIU-Senior-Design-Autonomous-Vehicle/rgbd_launch.git
