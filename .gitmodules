@@ -15,3 +15,7 @@
 [submodule "rgbd_launch"]
 	path = rgbd_launch
 	url = https://github.com/NIU-Senior-Design-Autonomous-Vehicle/rgbd_launch.git
+[submodule "realsense-ros-NIU"]
+	path = realsense-ros-NIU
+	url = https://github.com/NIU-Senior-Design-Autonomous-Vehicle/realsense-ros.git
+	branch = development
