@@ -4,6 +4,7 @@
 [submodule "realsense-ros"]
 	path = realsense-ros
 	url = https://github.com/NIU-Senior-Design-Autonomous-Vehicle/realsense-ros.git
+	branch = development
 [submodule "ddynamic_reconfigure"]
 	path = ddynamic_reconfigure
 	url = https://github.com/NIU-Senior-Design-Autonomous-Vehicle/ddynamic_reconfigure.git
