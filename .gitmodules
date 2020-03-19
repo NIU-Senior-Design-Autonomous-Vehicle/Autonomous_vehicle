@@ -19,3 +19,7 @@
 	path = realsense-ros-NIU
 	url = https://github.com/NIU-Senior-Design-Autonomous-Vehicle/realsense-ros.git
 	branch = development
+[submodule "vision_opencv"]
+	path = vision_opencv
+	url = https://github.com/ros-perception/vision_opencv.git
+	branch = melodic
