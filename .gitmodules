@@ -21,5 +21,5 @@
 	branch = development
 [submodule "vision_opencv"]
 	path = vision_opencv
-	url = https://github.com/ros-perception/vision_opencv.git
+	url = https://github.com/NIU-Senior-Design-Autonomous-Vehicle/vision_opencv.git
 	branch = melodic
