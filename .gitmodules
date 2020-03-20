@@ -22,4 +22,4 @@
 [submodule "vision_opencv"]
 	path = vision_opencv
 	url = https://github.com/NIU-Senior-Design-Autonomous-Vehicle/vision_opencv.git
-	branch = dashing
+	branch = melodic
